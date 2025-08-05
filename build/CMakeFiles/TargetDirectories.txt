@@ -1,0 +1,3 @@
+/mnt/c/Users/ALEXANDER/carpetaLinux/juegoCpp/mijuego/build/CMakeFiles/BlackJack.dir
+/mnt/c/Users/ALEXANDER/carpetaLinux/juegoCpp/mijuego/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ALEXANDER/carpetaLinux/juegoCpp/mijuego/build/CMakeFiles/rebuild_cache.dir

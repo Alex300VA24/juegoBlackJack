@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux (WSL)",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "./SFML"          // Ruta estándar de headers en Linux
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++", // Usa g++ en WSL
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"  // Modo IntelliSense para GCC en Linux
+        }
+    ],
+    "version": 4
+}
